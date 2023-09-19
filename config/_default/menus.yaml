@@ -1,0 +1,167 @@
+leftnav:
+- identifier: 89b22769-e5d0-4a18-9eeb-549eb9970eef
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: aa3d9f80-b60a-49e9-a38b-56e6d8291a35
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
+  name: 'Week 1: What Are We Trying to Do Here?'
+  pageRef: /pages/week-1-the-challenge
+  weight: 30
+- identifier: 7787d088-08d1-4e8c-beff-017fb0022ce5
+  name: 'Week 2: Data Are Wasted, Lost, and Under-Used'
+  pageRef: /pages/week-1-response-paper
+  weight: 40
+- identifier: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
+  name: 'Week 3: Experiments Cannot Be Reproduced by Other Labs'
+  pageRef: /pages/week-3-experiments-cannot-be-reproduced-by-other-labs
+  weight: 50
+- identifier: 39ba7d7f-cf99-477a-a10d-f6ca942f68c1
+  name: 'Week 4: The Literature Is Biased'
+  pageRef: /pages/week-4-the-challenge
+  weight: 60
+- identifier: 905c3b16-c63e-43d4-9bd3-72603d6b5a82
+  name: 'Week 5: Mistakes Go Uncaught and Uncorrected'
+  pageRef: /pages/week-5-the-challenge
+  weight: 70
+- identifier: ed102048-30ba-49b4-8927-3cba3c885822
+  name: 'Week 6: Time and Effort Are Wasted by Arbitrary Gatekeeping'
+  pageRef: /pages/week-6-the-challenge
+  weight: 80
+- identifier: 615012bd-8880-4f8a-93d4-05b6a13cc0b6
+  name: 'Week 7: Results Are Only Accessible to Very Rich Institutions'
+  pageRef: /pages/week-7-the-challenge
+  weight: 90
+- identifier: 269651c6-9356-4b2a-95e4-b998c7f23752
+  name: 'Week 8: Scientific Papers Are Obsolete'
+  pageRef: /pages/week-8-the-challenge
+  weight: 100
+- identifier: 27e54345-dff3-41c7-bbf8-9b38f4e2bfea
+  name: 'Week 9: "But, the Incentives"'
+  pageRef: /pages/week-9-challenge-researchers-are-incentivized-to-be-first-not-right
+  weight: 110
+- identifier: 09b11cae-d3de-424c-b2af-9fe68e047857
+  name: 'Week 10: Who Can Re-Use What?'
+  pageRef: /pages/week-10-challenge-managing-the-use-of-scientific-products
+  weight: 120
+- identifier: 4b8e8288-e152-4e7f-9290-01c3a944f5c6
+  name: 'Week 11: The Voices We Don''t Hear'
+  pageRef: /pages/week-11-challenge-the-voices-we-dont-hear
+  weight: 130
+- identifier: 42e568ae-4a30-4bf9-9653-df35db3933ff
+  name: 'Week 12: Basic Science Does Not Generalize to the Real World'
+  pageRef: /pages/week-12-challenge-basic-science-does-not-generalize-to-the-real-world
+  weight: 140
+- identifier: 6724d0d9-0dce-4061-bd31-6e1d3a943de7
+  name: 'Week 1: Response Paper'
+  pageRef: /pages/week-1-response-paper2
+  parent: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
+  weight: 10
+- identifier: 6f6af34a-693e-4fbe-840c-e2b2a24644a0
+  name: 'Week 2 Tool: FAIR Data Sharing'
+  pageRef: /pages/week-2-the-tool
+  parent: 7787d088-08d1-4e8c-beff-017fb0022ce5
+  weight: 10
+- identifier: 9b792c82-ab5b-4cf3-9c73-1454013308d1
+  name: 'Week 2: Response Paper'
+  pageRef: /pages/week-2-response-paper
+  parent: 7787d088-08d1-4e8c-beff-017fb0022ce5
+  weight: 20
+- identifier: 4434ac86-6aab-4ad4-8ceb-dab0c6a28505
+  name: 'Week 3 Tool: FAIR Protocols; Methodology Reporting Standards'
+  pageRef: /pages/week-3-the-tool
+  parent: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
+  weight: 10
+- identifier: e0e71722-6ceb-4988-b255-a3d18076f6cc
+  name: 'Week 3: Response Paper'
+  pageRef: /pages/week-3-response-paper
+  parent: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
+  weight: 20
+- identifier: c6afac62-fdcc-4940-9565-0e654a1eca3c
+  name: 'Week 4 Tool: Pre-registered Analysis Plans'
+  pageRef: /pages/week-4-the-tool
+  parent: 39ba7d7f-cf99-477a-a10d-f6ca942f68c1
+  weight: 10
+- identifier: 4259be98-f6ff-4888-82e4-6cb4cb204ec9
+  name: 'Week 4: Response Paper'
+  pageRef: /pages/week-4-response-paper
+  parent: 39ba7d7f-cf99-477a-a10d-f6ca942f68c1
+  weight: 20
+- identifier: ef2a4c31-817c-4b0c-b411-a357b4366fcf
+  name: 'Week 5 Tool: Dynamic Executable Papers & FAIR Open-source Processing Pipelines'
+  pageRef: /pages/week-5-the-tool
+  parent: 905c3b16-c63e-43d4-9bd3-72603d6b5a82
+  weight: 10
+- identifier: fdaf4434-2019-450c-981f-57ffd8771035
+  name: 'Week 5: Response Paper'
+  pageRef: /pages/week-5-response-paper
+  parent: 905c3b16-c63e-43d4-9bd3-72603d6b5a82
+  weight: 20
+- identifier: 51e422d7-0cd0-4ea4-bebc-ba652b2fefa1
+  name: 'Week 6 Tool: Preprints and Post-publication Review'
+  pageRef: /pages/week-6-the-tool
+  parent: ed102048-30ba-49b4-8927-3cba3c885822
+  weight: 10
+- identifier: eb38a208-30bc-4845-b742-dbfa1022c619
+  name: 'Week 6: Response Paper'
+  pageRef: /pages/week-6-response-paper
+  parent: ed102048-30ba-49b4-8927-3cba3c885822
+  weight: 20
+- identifier: 6feb7316-a869-4b3a-a4ec-9ccc1ee0c2ec
+  name: 'Week 7 Tool: Open Access and Alternative Publishing Agreements'
+  pageRef: /pages/week-7-the-tool
+  parent: 615012bd-8880-4f8a-93d4-05b6a13cc0b6
+  weight: 10
+- identifier: 169fb551-7751-47b9-af79-8a1866e35059
+  name: 'Week 7: Response Paper'
+  pageRef: /pages/week-7-response-paper
+  parent: 615012bd-8880-4f8a-93d4-05b6a13cc0b6
+  weight: 20
+- identifier: 238a336a-968c-48dc-90ed-7d345f0844d8
+  name: 'Week 8 Tool:  Alternative Formats for Scientific Communication'
+  pageRef: /pages/week-8-the-tool
+  parent: 269651c6-9356-4b2a-95e4-b998c7f23752
+  weight: 10
+- identifier: 06bbbd87-5c59-49f5-b4cc-2ca70b032ee8
+  name: 'Week 8: Response Paper'
+  pageRef: /pages/week-8-response-paper
+  parent: 269651c6-9356-4b2a-95e4-b998c7f23752
+  weight: 20
+- identifier: 3e6a722f-5dec-4ed7-962b-516a753f5562
+  name: 'Week 9 Tool: Badges, Transparency Audits, Openness Metrics'
+  pageRef: /pages/week-9-tool-badges-transparency-audits-openness-metrics
+  parent: 27e54345-dff3-41c7-bbf8-9b38f4e2bfea
+  weight: 10
+- identifier: f8d5440b-64cf-4c7c-83d2-39c9145fde08
+  name: 'Week 9: Response Paper'
+  pageRef: /pages/week-9-response-paper
+  parent: 27e54345-dff3-41c7-bbf8-9b38f4e2bfea
+  weight: 20
+- identifier: ae391099-222b-4c2a-8296-457788495f31
+  name: 'Week 10 Tool: Collaboration Agreements and Licenses'
+  pageRef: /pages/week-10-tool-collaboration-agreements-and-licenses
+  parent: 09b11cae-d3de-424c-b2af-9fe68e047857
+  weight: 10
+- identifier: ac3d07fd-75d8-4b00-b0b6-23c99382323c
+  name: 'Week 10: Response Paper'
+  pageRef: /pages/week-10-response-paper
+  parent: 09b11cae-d3de-424c-b2af-9fe68e047857
+  weight: 20
+- identifier: aad62042-4c35-4cf4-aafe-4f9b0731cf1a
+  name: 'Week 11 Tool: Citation Audits for Papers and Syllabi'
+  pageRef: /pages/week-11-tool-citation-audits-for-papers-and-syllabi
+  parent: 4b8e8288-e152-4e7f-9290-01c3a944f5c6
+  weight: 10
+- identifier: 1acc672c-c539-4a0d-adfc-1c3f8ad468ae
+  name: 'Week 11: Response Paper'
+  pageRef: /pages/week-11-response-paper
+  parent: 4b8e8288-e152-4e7f-9290-01c3a944f5c6
+  weight: 20
+- identifier: 4a457d8d-430a-4342-8f6b-a030119c681f
+  name: 'Week 12: Final Project'
+  pageRef: /pages/week-12-final-project
+  parent: 42e568ae-4a30-4bf9-9653-df35db3933ff
+  weight: 10
